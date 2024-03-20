@@ -1,0 +1,5 @@
+#!/Users/spartan/Desktop/Projects/RAG_Using_LlamaIndex_and_OpenAI/rag/bin/python3.10
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
