@@ -1,0 +1,5 @@
+llama-index==0.10.13.post1
+openai
+pypdf
+ipykernel
+python-dotenv
